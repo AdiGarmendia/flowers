@@ -1,0 +1,94 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "commonName": "Moss Rose",
+      "color": "Varies"
+    },
+    {
+      "id": 2,
+      "commonName": "Tulip",
+      "color": "Varies"
+    },
+    {
+      "id": 3,
+      "commonName": "Rose",
+      "color": "Varies"
+    },
+    {
+      "id": 4,
+      "commonName": "Lavendar",
+      "color": "Purple"
+    },
+    {
+      "id": 5,
+      "commonName": "Your Momma",
+      "color": "No one cares"
+    }
+  ],
+  "retailers": [
+    {
+      "id": 1,
+      "name": "IkoIko",
+      "city": "un-day",
+      "state": "Hey Now",
+      "address": "Talk-in about",
+      "distributorId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jock-a-mo",
+      "city": "fee na-ne",
+      "state": "I-ko I-ko",
+      "address": "Look at my King all dressed in red",
+      "distributorId": 2
+    },
+    {
+      "id": 3,
+      "name": "I betcha",
+      "city": "five dollars",
+      "state": "he'll kill ya dead",
+      "address": "jock-a-mo fee na-ne",
+      "distributorId": 3
+    },
+    {
+      "id": 4,
+      "name": "My flag boi and your flag boi",
+      "city": "were sittin by the fire",
+      "state": "my flag boi told your glag boi",
+      "address": "I'm gonna set ya flag on fire",
+      "distributorId": 1
+    },
+    {
+      "id": 5,
+      "name": "See that guy all dressed in green?",
+      "city": "Iko Iko un-day",
+      "state": "He's not a man",
+      "address": "He's a lovin machine",
+      "distributorId": 2
+    }
+  ],
+  "distributors": [
+    {
+      "id": 1,
+      "name": "Gris Gris Gumbo Ya Ya",
+      "city": "They call me, Dr. John, The Night Tripper",
+      "state": "Got my sizzling Gris-Gris in my hand",
+      "address": "Day trippin' up, back down da bayou"
+    },
+    {
+      "id": 2,
+      "name": "I'm the last of the best",
+      "city": "They call me the Gris-Gris man",
+      "state": "Got many clients",
+      "address": "Come from miles around"
+    },
+    {
+      "id": 3,
+      "name": "Running down my prescriptions",
+      "city": "I got my medicine, to cure all your ills",
+      "state": "I got remedies of every description",
+      "address": "Hey Now Gris-Gris Gumbo Ya Ya Hey Now"
+    }
+  ]
+}
